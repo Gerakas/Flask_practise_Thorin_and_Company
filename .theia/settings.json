@@ -19,5 +19,10 @@
       "**/core.mongo*": true,
       "**/core.python*": true
    },
+<<<<<<< HEAD
    "emmet.extensionsPath": ".theia"
+=======
+"emmet.extensionsPath": ".theia",
+"python.pythonPath": "/home/gitpod/.pyenv/shims/python"
+>>>>>>> be2c1cc (Initial commit)
 }
